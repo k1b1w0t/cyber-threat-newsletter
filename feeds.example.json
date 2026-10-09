@@ -1,0 +1,6 @@
+[
+  {"name": "BleepingComputer", "url": "https://www.bleepingcomputer.com/feed/"},
+  {"name": "Krebs on Security", "url": "https://krebsonsecurity.com/feed/"},
+  {"name": "CISA Advisories", "url": "https://www.cisa.gov/cybersecurity-advisories/all.xml"},
+  {"name": "Your Blog Here", "url": "https://example.com/feed.xml"}
+]

@@ -1,0 +1,15 @@
+# Generated newsletter issues
+issues/
+
+# Local logo
+logo.*
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Editor / OS
+.vscode/
+.DS_Store
